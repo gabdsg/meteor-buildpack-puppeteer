@@ -1,3 +1,4 @@
 #!/bin/sh
-
-echo "Node.js" && exit 0
+echo "Puppeteer"
+echo "Node.js"
+exit 0
