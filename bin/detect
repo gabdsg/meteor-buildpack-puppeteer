@@ -1,4 +1,3 @@
 #!/bin/sh
-echo "Puppeteer"
-echo "Node.js"
+echo "Meteor Puppeteer"
 exit 0
